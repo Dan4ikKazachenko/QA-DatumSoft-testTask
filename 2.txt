@@ -1,0 +1,3 @@
+Задача 1: Выборка данных: SELECT name FROM Users WHERE age > 30;
+Задача 2: Обновление данных: UPDATE Products SET price = price + (price * 0.10) WHERE price < 10;
+
